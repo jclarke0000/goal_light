@@ -1,0 +1,17 @@
+{
+  "name": "goal_light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "goal_light.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jclarke",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "rpi-gpio": "^0.9.1",
+    "sonos": "^0.17.0",
+    "wink-jsv2": "0.0.3"
+  }
+}
