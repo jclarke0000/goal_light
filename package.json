@@ -9,9 +9,8 @@
   "author": "jclarke",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.83.0",
+    "request": "^2.85.0",
     "rpi-gpio": "^0.9.1",
-    "sonos": "^0.17.0",
-    "wink-jsv2": "0.0.3"
+    "sonos": "^1.1.2"
   }
 }
